@@ -1,0 +1,9 @@
+const object = 
+{
+    name: 
+    {
+        sally: {}
+    }
+};
+
+
